@@ -4,8 +4,8 @@ public class BonusMilesService {
         int result;
         int stepPlus = 20;
         int bonus = 1;
-        result = (price / stepPlus * bonus);;
+        result = (price / stepPlus * bonus);
+        ;
         return result;
     }
-    }
-
+}
